@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: post
 title: OOP Design Principles
 permalink: /designprinciples/
+categories: oop
 ---
 These are some of the more important design principles and strategies to consider during your OOP software design and development activities.
 
@@ -99,7 +100,7 @@ Software should be designed so that you can extend its capabilities without chan
 Dependency Inversion Principle (DIP)
 ------------------------------------
 
-The [dependency inversion principle](/dip) states that high level modules should not depend on low level modules, instead both should depend on abstractions.
+The dependency inversion principle states that high level modules should not depend on low level modules, instead both should depend on abstractions.
 
 The Liskov Substitution Principle (LSP)
 ---------------------------------------
