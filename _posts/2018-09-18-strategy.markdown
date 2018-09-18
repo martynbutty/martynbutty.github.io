@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: The Strategy Pattern
 permalink: /strategy/
 categories: oop

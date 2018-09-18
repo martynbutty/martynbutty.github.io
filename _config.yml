@@ -16,7 +16,7 @@
 title: Software Engineers Notebook
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Notes, ramblings and info on Software Engineering, best practice and related things.
+  Software Engineering notes to myself that you may find useful too
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -24,7 +24,8 @@ github_username:  martynbutty
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 

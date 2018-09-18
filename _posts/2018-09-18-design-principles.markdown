@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: OOP Design Principles
 permalink: /designprinciples/
 categories: oop

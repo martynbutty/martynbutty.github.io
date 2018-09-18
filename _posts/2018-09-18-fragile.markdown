@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: The Fragile Base Class Problem
 permalink: /fragile/
 categories: oop
@@ -80,7 +80,7 @@ class Apple extends Fruit {
   // Apple must be changed to accommodate the change to Fruit  
   private Fruit fruit = new Fruit();  
   public int peel() {  
-    Peel peel \ fruit.peel();  
+    Peel peel = fruit.peel();  
     return peel.getPeelCount();  
   }  
 }  
