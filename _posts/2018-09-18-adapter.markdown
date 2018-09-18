@@ -3,6 +3,7 @@ layout: post
 title: The Adapter Pattern
 permalink: /adapter/
 categories: [OOP]
+order: 100
 ---
 ![Adapter pattern class diagram](/assets/adapterPattern.png)
 

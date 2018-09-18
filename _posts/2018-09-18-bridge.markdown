@@ -3,6 +3,7 @@ layout: post
 title: The Bridge Pattern
 permalink: /bridge/
 categories: [OOP]
+order: 100
 ---
 The bridge pattern is similar to the [strategy pattern](/strategy), where you define a family of algorithms, encapsulate each one, and make them interchangeable.  Strategy lets the algorithm vary independently from clients that use it. The bridge pattern decouples an abstraction from its implementation so that the two can vary independently.
 

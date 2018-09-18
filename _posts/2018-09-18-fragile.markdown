@@ -3,6 +3,7 @@ layout: post
 title: The Fragile Base Class Problem
 permalink: /fragile/
 categories: [OOP]
+order: 100
 ---
 **The fragile base class** problem is caused by the use of _implementation inheritance_. It occurs when a derived class extends a base class, using some of the methods or attributes in the base class.
 

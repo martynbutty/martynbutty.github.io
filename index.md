@@ -11,7 +11,9 @@ Hopefully you may also find something useful here.
 {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
   <ul>
-    {% for post in category[1] %}
+    {% assign pages_list = category[1] %}  
+    {% assign pages_list = pages_list | sort:"order" %}  
+    {% for post in pages_list %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
