@@ -1,8 +1,8 @@
 ---
-# layout: post
+layout: post
 title: The Adapter Pattern
 permalink: /adapter/
-categories: oop
+categories: [OOP]
 ---
 ![Adapter pattern class diagram](/assets/adapterPattern.png)
 

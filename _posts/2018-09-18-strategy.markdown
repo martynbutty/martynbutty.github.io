@@ -1,8 +1,8 @@
 ---
-# layout: post
+layout: post
 title: The Strategy Pattern
 permalink: /strategy/
-categories: oop
+categories: [OOP]
 ---
 ![strategy pattern class diagram](/assets/strategy_pattern.png)
 

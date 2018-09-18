@@ -1,8 +1,8 @@
 ---
-# layout: post
+layout: post
 title: OOP Design Principles
 permalink: /designprinciples/
-categories: oop
+categories: [OOP]
 ---
 These are some of the more important design principles and strategies to consider during your OOP software design and development activities.
 
