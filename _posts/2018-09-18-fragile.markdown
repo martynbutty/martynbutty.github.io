@@ -11,7 +11,7 @@ order: 100
 
 The derived class is tightly coupled to the base class. This is because the derived class expects the methods or attributes of the base class that it uses, to be of a certain type, or do things in a certain way. This means you cannot modify the base class without having to examine every derived class that inherits from the base class, and the client code that uses either the base or derived class objects.
 
-Lets look at an example to illustrate the problem.
+Let's look at an example to illustrate the problem.
 
 {% highlight java %}
 class Fruit {  
