@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Scrum cheat sheet
+title: Scrum Cheat Sheet
 permalink: /scrum/
 categories: [Misc]
 order: 100
 ---
-Scrum cheat sheet
-------------
 ## Meetings and Ceremonies
 * Two week sprint (iteration)
 * Sprint Planning (<4hrs) – Start by trying 2hrs. Remember to take couple of breaks, especially if remote working; Don’t forget to set your Sprint Goal.
